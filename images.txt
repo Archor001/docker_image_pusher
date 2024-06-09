@@ -1,5 +1,5 @@
 alpine
-opennetworking/ngsdn-tutorial
+opennetworking/ngsdn-tutorial:mvn
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
