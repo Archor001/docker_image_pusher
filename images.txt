@@ -1,6 +1,7 @@
 alpine
 opennetworking/ngsdn-tutorial:mvn
 maven:3.6.1-jdk-11-slim
+opennetworking/p4c:stable
 kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
