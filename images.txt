@@ -1,6 +1,7 @@
 alpine
 atomix/atomix:3.1.12
 stratumproject/stratum-tools
+registry.opennetworking.org/bf-sde/bf-sde:9.7.0-p4c
 opennetworking/ngsdn-tutorial:mvn
 maven:3.6.1-jdk-11-slim
 opennetworking/p4c:stable
