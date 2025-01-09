@@ -8,3 +8,5 @@ kasmweb/nginx:1.25.3
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 p4lang/p4runtime-sh:latest
 jaxa/p4app-epoch
+grafana/grafana:7.3.3
+influxdb:1.8.3
